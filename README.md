@@ -13,7 +13,8 @@ Association rule mining techniques are data mining methods used to discover inte
 # 1️⃣ Top 10 Item Purchased:
 Identified the top 10 items frequently purchased by customers, providing valuable insights into popular products.
 
-# 2️⃣ Association Rules: Discovered significant associations between various items, such as yogurt and whole milk, as well as rolls/buns and whole milk applying Apriori Algorithm. These associations suggest complementary purchasing patterns among customers.
+# 2️⃣ Association Rules:
+Discovered significant associations between various items, such as yogurt and whole milk, as well as rolls/buns and whole milk applying Apriori Algorithm. These associations suggest complementary purchasing patterns among customers.
 
 # 3️⃣ Product Placement Strategies:
 Utilized association rules to suggest optimal product placement, promotions, and inventory management strategies for retailers. By strategically placing related items together, retailers can encourage additional purchases and enhance customer satisfaction.
